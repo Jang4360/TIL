@@ -38,7 +38,8 @@
 
 ## 데이터베이스 다중화
 
-![image.png](attachment:a8b87364-c6a6-4cbb-acbd-ec23910b2f60:image.png)
+<img width="632" height="582" alt="Image" src="https://github.com/user-attachments/assets/01a23ca3-21cb-4ff5-8bf1-beb6348ddd8c" />
+
 - 정적 콘텐츠는 웹서버가 아닌 CDN에서 제공하는 것이 더 나은 성능을 보장한다.
 - 캐시가 데이터베이스 부하를 줄여준다.
 
@@ -130,7 +131,7 @@ JWT 인증방식은 클라이언트가 보낸 토큰을 Header, Payload, Signatu
 
 ## 무상태 아키텍처
 
-![image.png](attachment:d84fc2cd-e1e3-4883-9aa7-bc8b5d8d71c9:image.png)
+<img width="575" height="573" alt="Image" src="https://github.com/user-attachments/assets/530b2b4e-9168-435f-880b-d6f8fd72611b" />
 
 무상태 아키텍처의 상태정보는 웹서버로부터 물리적으로 분리되어 있어 서버가 자동으로 규모 확장이 가능해진다. 
 
